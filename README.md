@@ -1,6 +1,13 @@
 # Home-Made-Food-Application
 Windows Application for Home Made Food Service
+
+The purpose of this software is to manage the Home Made Food and provide them to the customers at a reasonable rate establishing consensus through the store. 
+We developed this software to maintain records of sales, purchase and stock records. 
+This project is developed using ASP.NET as front end and SQL Server as Back end. 
+It allows customers to place order(s) for the food, contact the sellers and users, sell the food, view available stock, and cancel the order.
+
 Screenshots 📸 :
+
 Login-
 
  ![image](https://user-images.githubusercontent.com/31396961/210076493-49221395-a132-4541-bf3a-aafcfa4b01bd.png)
